@@ -25,22 +25,23 @@ A simple web-based app that generates realistic images from text prompts using t
 **🖼 Sample Outputs**
 
 <p align="center">
-  <img src="images/output1.png" alt="Prompt 1 Output" width="500"/>
+  <img src="./images/output1.png" alt="Prompt 1 Output" width="500"/>
   <br>
   <b>Figure 1:</b> A futuristic city in the clouds at sunset
 </p>
 
 <p align="center">
-  <img src="images/output2.png" alt="Prompt 2 Output" width="500"/>
+  <img src="./images/output2.png" alt="Prompt 2 Output" width="500"/>
   <br>
   <b>Figure 2:</b> A dog playing piano in a jazz bar
 </p>
 
 <p align="center">
-  <img src="images/output3.png" alt="Prompt 3 Output" width="500"/>
+  <img src="./images/output3.png" alt="Prompt 3 Output" width="500"/>
   <br>
   <b>Figure 3:</b> An astronaut riding a horse on Mars
 </p>
+
 
 **🧰 Tech Stack**
 
